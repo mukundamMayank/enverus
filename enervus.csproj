@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Aspose.Cells" Version="22.12.0" />
+    <PackageReference Include="GroupDocs.Conversion" Version="22.12.0" />
+    <PackageReference Include="IronPdf" Version="2022.12.11113" />
+    <PackageReference Include="IronXL.Excel" Version="2022.12.11262" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="IronPython" Version="3.4.0" />
+    <PackageReference Include="IronPython.StdLib" Version="3.4.0" />
+  </ItemGroup>
+
+</Project>
